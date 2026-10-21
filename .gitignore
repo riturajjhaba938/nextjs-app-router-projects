@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Next.js build output
+.next/
+*/.next/
+
+# Environment files
+*.local
+.env*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other projects in workspace
+next-app/
+yt-clone/
